@@ -60,7 +60,3 @@ Frontend Developer | Next.js | TypeScript | React | Tailwind CSS | Exploring Gen
 
 GitHub: https://github.com/Ubaidrazapatni
 
-```
-
-Jab complete ho jaye to **“done”** bolo. Phir hum isko pin karenge aur tumhare **5 strong pinned projects** complete ho jayenge. Uske baad 6th project carefully select karenge. 🚀
-```
